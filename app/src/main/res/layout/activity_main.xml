@@ -48,6 +48,7 @@
 
         <TextView
             style="@style/Text"
+            android:layout_gravity="right"
             android:text="@string/c_est_cool"
             />
 
