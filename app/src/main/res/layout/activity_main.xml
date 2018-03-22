@@ -47,7 +47,13 @@
             />
 
         <TextView
-            style="@style/Text"
+            style="@style/TitleView"
+            android:text="@string/conclusion"
+            />
+
+
+        <TextView
+            style="@style/Text.Description"
             android:layout_gravity="right"
             android:text="@string/c_est_cool"
             />
